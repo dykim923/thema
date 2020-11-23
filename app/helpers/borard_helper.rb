@@ -1,0 +1,2 @@
+module BorardHelper
+end
